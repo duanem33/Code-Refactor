@@ -1,6 +1,6 @@
 # HW1
 
-## Changed some _semantics_:**
+### Changed some _semantics_:
  - `divs` **to** _`Section`_, _`Main`_, _`Footer`_.
 
  **Added the** _`id`_ **element in order to link to** _`URL`_.
